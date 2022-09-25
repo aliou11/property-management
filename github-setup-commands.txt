@@ -3,3 +3,14 @@ git add .
 git commit -m "first commit""
 git remote set-url origin https://github.com/aliou11/property-management
 git push --set-upstream origin master
+
+
+git remote set-url origin git@github.com:aliou11/property-management.gitgit 
+
+
+---next time
+
+git pull
+git add .
+git commit -m"comment"
+git push

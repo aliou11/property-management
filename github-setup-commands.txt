@@ -8,6 +8,7 @@ git push --set-upstream origin master
 git remote set-url origin git@github.com:aliou11/property-management.gitgit 
 
 
+
 ---next time
 
 git pull

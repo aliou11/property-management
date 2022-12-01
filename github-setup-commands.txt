@@ -8,6 +8,7 @@ git push --set-upstream origin master
 git remote set-url origin git@github.com:aliou11/property-management.gitgit 
 
 
+git remote set-url origin https://aliou11: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@github.com/aliou11/property-management
 
 ---next time
 
@@ -15,3 +16,5 @@ git pull
 git add .
 git commit -m"comment"
 git push
+
+
